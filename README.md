@@ -1,10 +1,14 @@
 # LIVE_CLOCK_JS
 # Revolving RED, BLUE , GREEN GRADIENT  CSS
 
-This CSS code provides a stylish and eye-catching revolving black and white gradient effect. It is 
+I was thinking to make some projects in my study week just to practice so i thought lets make something 
+simple like a live clock .
+
+This Project code provides a stylish and eye-catching revolving Red, Blue, Green  gradient effect. It is 
 designed to be used in web projects where a dynamic and visually appealing background is desired. The 
 gradient smoothly transitions between black and white colors, creating an elegant and modern appearance.
 
+This project was mainly for the practice of intensive CSS features and learning through it.
 ## Key Features
 - **Revolving Effect:** The gradient background rotates in a circular motion, adding a sense of movement 
 and dynamism to the design.
