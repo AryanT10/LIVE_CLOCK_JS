@@ -27,4 +27,5 @@ stylesheet.
 Feel free to customize the code further to suit your specific project requirements. Enjoy the elegant 
 revolving black and white gradient effect in your web design!
 
-
+<img width="837" alt="Screenshot 2023-07-05 at 8 25 36 AM" 
+src="https://github.com/AryanT10/LIVE_CLOCK_JS/assets/59858427/08bf5e44-86c0-47e1-9da2-1bb0c283bbac">
